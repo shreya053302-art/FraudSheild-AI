@@ -1,0 +1,11 @@
+# Secret environment files
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dependencies
+node_modules/
